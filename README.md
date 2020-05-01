@@ -29,6 +29,7 @@ Nicholas Del Grosso
 ## Tools
 
 - [codedown](https://github.com/earldouglas/codedown)
+- [conda](https://www.anaconda.com/)
 - [pipenv](https://pipenv.pypa.io/en/latest/)
 - [poetry](https://python-poetry.org/)
 - [dephell](https://dephell.org/)
