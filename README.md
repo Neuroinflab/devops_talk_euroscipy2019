@@ -1,5 +1,5 @@
 # devops_talk_euroscipy2019
-Slides from the talk "Scientific DevOps: Designing Reproducible Data Analysis Pipelines with Containerized Workflow Managers" given at EuroScipy 2019 in Bilbao, Spain
+Slides from the talk ["Scientific DevOps: Designing Reproducible Data Analysis Pipelines with Containerized Workflow Managers" given at EuroScipy 2019 in Bilbao, Spain](https://www.youtube.com/watch?v=VldeBnFQ-Y8)
 
 from the [site](https://pretalx.com/euroscipy-2019/talk/QVCFGE/)
 
