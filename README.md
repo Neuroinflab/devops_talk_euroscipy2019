@@ -30,3 +30,4 @@ Nicholas Del Grosso
 
 - [codedown](https://github.com/earldouglas/codedown)
 - [pipenv](https://pipenv.pypa.io/en/latest/)
+- [poetry](https://python-poetry.org/)
