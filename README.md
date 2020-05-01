@@ -35,3 +35,4 @@ Nicholas Del Grosso
 - [dephell](https://dephell.org/)
 - [docker](https://www.docker.com/)
 - [singularity](https://sylabs.io/docs/) [PLOS ONE paper](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177459)
+- [snakemake](https://snakemake.readthedocs.io/en/stable/)
