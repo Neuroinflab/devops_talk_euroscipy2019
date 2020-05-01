@@ -24,3 +24,8 @@ By writing software that stays manageable, reproducible, and deployable continuo
 Domains – Open Source, Scientific data flow and persistence Project Homepage / Git – Domain Expertise – some Python Skill Level – professional Project Homepage / Git – Abstract as a tweet – DevOps in science--making data analysis shareable, reproducible, and open!
 Speaker
 Nicholas Del Grosso
+
+
+## Tools
+
+- [codedown](https://github.com/earldouglas/codedown)
